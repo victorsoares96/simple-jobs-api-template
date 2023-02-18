@@ -1,0 +1,9 @@
+{
+  "database": {
+    "address": "mongodb://localhost:27017/agenda",
+    "username": "root",
+    "password": "mongo",
+    "authSource": "admin",
+    "ssl": false
+  }
+}

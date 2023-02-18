@@ -1,0 +1,8 @@
+/*.js
+/*.json
+coverage
+node_modules
+dist
+src/database/migrations/**/*.ts
+jest.config.ts
+jest.setup.ts
