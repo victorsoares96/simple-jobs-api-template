@@ -61,7 +61,7 @@
     "@types/jsonwebtoken": "9.0.1",
     "@types/node": "18.11.18",
     "@types/supertest": "2.0.12",
-    "@types/validator": "13.7.10",
+    "@types/validator": "13.11.9",
     "@typescript-eslint/eslint-plugin": "5.48.1",
     "@typescript-eslint/parser": "5.48.1",
     "babel-plugin-module-resolver": "5.0.0",
